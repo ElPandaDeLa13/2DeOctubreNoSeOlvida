@@ -14,7 +14,7 @@ Lo primero que debes hacer es instalar Visual Studio Code. Para ello basta con q
 descargas](https://code.visualstudio.com/) y nos descarguemos e instalemos la versión apropiada para nuestro sistema operativo
 ![alt text](https://www.campusmvp.es/recursos/image.axd?picture=/2019/1T/vscode-netcore/DescargarVSC.png)
 ---
-Instalando las extensiones necesarias #H1
+#Instalando las extensiones necesarias 
 
 Para poder desarrollar todo su potencial, Visual Studio Code utiliza un sistema de extensiones que nos
 permiten ampliar su funcionalidad. Estas extensiones se pueden descargar desde el propio entorno o
@@ -61,7 +61,7 @@ botón de instalar.
 
 ![alt text](https://miro.medium.com/max/494/1*ccXGscRzG49rBA8NwI6DnQ.png)
 
-![alt text],(https://miro.medium.com/max/495/1*SH7rKdvIea0Ob9pMbxuORA.png)
+![alt text](https://miro.medium.com/max/495/1*SH7rKdvIea0Ob9pMbxuORA.png)
 
 ![alt text](https://miro.medium.com/max/495/1*dY-zXW1E8HEYQp5ADIp-IQ.png)
 
@@ -86,7 +86,7 @@ Y ésta será la terminal que usaremos para ingresar comandos Unix y de Git sobr
 
 ![alt text](https://miro.medium.com/max/1162/1*bBBa0SA-rGayFEncu-OrUQ.png)
 ---
-Clonar un repo #H1
+#Clonar un repo 
 
 Arrancamos por clonar un repo para ello copiaremos la URL del repo (en este caso tenemos el repo en github pero funcionaría desde bitbucket, gitlab, vsts u otro).
 
